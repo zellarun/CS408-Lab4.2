@@ -1,8 +1,6 @@
-# web-dev-starter
-
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+## Birdwatching Website
+This is a simple starter project for learning web development without frameworks. It’s built with plain HTML, CSS, and JavaScript, and serves as a practice exercise for creating semantic markup, styling layouts, and organizing content.
+The site displays a homepage for a fictional birdwatching community, featuring a header, navigation menu, welcome section, photo gallery sidebar, and footer.
 
 ## Getting Started
 
