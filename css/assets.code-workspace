@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../assets"
+		},
+		{
+			"name": "CS408-Lab4.2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"launch": {
+			"configurations": [
+				{
+					"name": "Debug Website",
+					"type": "chrome",
+					"request": "launch",
+					"url": "http://127.0.0.1:3000/"
+				}
+			]
+		}
+	}
+}
